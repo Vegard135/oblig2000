@@ -1,0 +1,5 @@
+1. Lar bruker tegne enkle geometriske figurer
+2. Velge figurtype (evt panel til dette)
+3. Bestemme ulike attributer til valgt figur
+4. Selektere tidligere tegnet figur på skjerm, flytte, forandre fyll og linjefarge
+5. To ulike linjetyper, to ulike flatetyper, tekst
